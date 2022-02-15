@@ -1,0 +1,13 @@
+msg="Hello Cole"
+print(msg)
+print(msg+msg)
+print(msg.upper())
+print(msg.lower())
+print(msg.title())
+print(len(msg))
+print(msg.count("l"))
+print(msg[3])
+print(msg[-4])
+print(msg[4:])
+print(msg[:5])
+print(msg[2:4])
